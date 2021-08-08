@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋
+I'm a responsible programmer with a lot of courage for different topics' self-learning;
+Also interested in solving challenging and algorithmic problems, for example, in Data
+Science and Machine Learning fields.
+I assure you I have enough cooperation and management skills even to lead a team.
 
 <!--
 **SepehrBazyar/SepehrBazyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +24,9 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=SepehrBazyar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="github stats" align="right"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrBazyar&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" align="left"/>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SepehrBazyar&bg_color=black) 
+
+## 📬 Contact Me
+
+- Email: bazyar.sepehr@gmail.com
