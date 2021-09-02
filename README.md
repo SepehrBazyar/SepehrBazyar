@@ -21,12 +21,11 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=SepehrBazyar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="github stats" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SepehrBazyar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="github stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrBazyar&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" align="left"/>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SepehrBazyar&bg_color=black) 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrBazyar&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 
 ## 📬 Contact Me
 
 - Email: bazyar.sepehr@gmail.com
+- LinkedIn: [linkedin.com/in/sepehrbazyar](https://www.linkedin.com/in/sepehrbazyar/)
