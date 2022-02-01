@@ -1,8 +1,5 @@
 ### Hi 👋
-I'm a responsible programmer with a lot of courage for different topics' self-learning;
-Also interested in solving challenging and algorithmic problems, for example, in Data
-Science and Machine Learning fields.
-I assure you I have enough cooperation and management skills even to lead a team.
+I'm a programmer with strong team spirit and I would like to gain new knowledge in my specialty(RESTful API) even as a self-learner.
 
 <!--
 **SepehrBazyar/SepehrBazyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
